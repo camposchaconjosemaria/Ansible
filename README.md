@@ -38,7 +38,7 @@ de los nodos. Estos archivos de configuración se conocen como Playbooks.
 
 ## 5.- Arquitectura y componentes. 
 
-En cuanto a la arquitectura y componentes de ansible, dejo la información en el siguiente enlace
+En cuanto a la arquitectura y componentes de ansible, dejo la información en el siguiente [enlace](/documentos/caracteristicas.md)
 
 
 ## 6.- Referencias
