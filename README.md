@@ -1,5 +1,6 @@
 # Ansible
 
+![image](img/ansible.png)
 
 1.- Introducción 
 
