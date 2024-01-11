@@ -42,6 +42,13 @@ En cuanto a la arquitectura y componentes de ansible, dejo la información en el
 
 
 ## 6.- Referencias
+
 [**Tutorial de Ansible en Red Hat**](https://www.redhat.com/es/topics/automation/learning-ansible-tutorial)
+
 [**Página de Ansible en Wikipedia**](https://es.wikipedia.org/wiki/Ansible_(software))
+
 [**Características de Jenkins en KeepCoding**](https://keepcoding.io/blog/cuales-son-las-caracteristicas-de-jenkins/)
+
+## 7.- Licencia
+
+
