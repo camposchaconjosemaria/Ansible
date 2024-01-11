@@ -51,4 +51,7 @@ En cuanto a la arquitectura y componentes de ansible, dejo la información en el
 
 ## 7.- Licencia
 
+<p align="center">
+  <img src="/img/licencia.png" alt="licencia">
+</p>
 
