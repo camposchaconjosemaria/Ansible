@@ -27,13 +27,13 @@ de los nodos. Estos archivos de configuración se conocen como Playbooks.
 
 4.- Los competidores. 
 
-* Timón
-* SaltStack
-* Empresa de marionetas
-* Chef
-* CFEmotor
-* CI de Gitlab
 * Jenkins
+* Chef Enterprise Automation Stack
+* Azure DevOps Services
+* Puppet Enterprise
+* Jira
+* Odoo
+
 
 5.- Arquitectura y componentes. 
 
@@ -44,3 +44,4 @@ https://www.redhat.com/es/blog/system-administrators-guide-getting-started-ansib
 https://www.redhat.com/es/topics/automation/learning-ansible-tutorial
 https://learn.microsoft.com/es-es/azure/developer/ansible/overview
 https://es.wikipedia.org/wiki/Ansible_(software)
+https://www.capterra.es/alternatives/149875/ansible-tower
